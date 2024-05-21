@@ -2,7 +2,7 @@
 ECE 552 Project Work
 Phase 2 is a 5 stage pipelined multi cycle processor, so it runs one stage (F, D, X, M, W) per cycle
 
-***To run:*** 
+**To run:** 
 1. Edit memory.v so that the instruction memory is reading to the right test (test1, test2, test3), and the other tests are commented out
 ```
 if (rst) begin
